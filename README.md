@@ -78,23 +78,6 @@ This reinforced one belief:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raghul1815&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghul1815&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Raghul1815&theme=tokyonight"/>
-</p>
-
----
-
 ## 📌 Contribution Graph
 
 <p align="center">
@@ -109,7 +92,7 @@ This reinforced one belief:
   <a href="https://linkedin.com/in/raghul-saravanakumar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://iamraghul18.netlify.app" target="_blank">
+  <a href="https://iamraghul.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
   </a>
   <a href="mailto:iamraghul18@gmail.com">
