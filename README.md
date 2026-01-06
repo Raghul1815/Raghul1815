@@ -4,6 +4,10 @@
 <p align="center">
   Learning deeply • Building consistently • Growing step by step
 </p>
+<p>for(Learn;Code;Innovate++) {
+ <br> Practice
+  <br> }
+</p>
 
 ---
 
